@@ -33,6 +33,8 @@ Churn Rate: 26.54%
 These KPIs give a quick overview of the overall customer churn situation.
 
  6. Dashboard Visuals
+    <img width="744" height="957" alt="Dashboard_page1" src="https://github.com/user-attachments/assets/b941ee15-a08d-467f-ba51-b89ee3ce7f7b" />
+
 
 The dashboard includes the following visuals:
 
@@ -47,6 +49,7 @@ Churn by Payment Method: Shows churn based on different payment methods.
 Average Monthly Charges by Churn: Compares the average monthly charges of churned and retained customers.
 
 Average Tenure by Churn: Compares the average tenure of churned and retained customers.
+ <img width="990" height="734" alt="Insights_page2" src="https://github.com/user-attachments/assets/47e657e0-fa8e-44e9-a06b-7fcbd8a822ea" />
 
  7. Key Insights
 
