@@ -33,7 +33,7 @@ Churn Rate: 26.54%
 These KPIs give a quick overview of the overall customer churn situation.
 
  6. Dashboard Visuals
-    <img width="744" height="957" alt="Dashboard_page1" src="https://github.com/user-attachments/assets/b941ee15-a08d-467f-ba51-b89ee3ce7f7b" />
+    <img width="744" alt="Dashboard_page1" src="https://github.com/user-attachments/assets/b941ee15-a08d-467f-ba51-b89ee3ce7f7b" />
 
 
 The dashboard includes the following visuals:
